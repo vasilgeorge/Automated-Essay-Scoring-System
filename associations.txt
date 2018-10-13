@@ -1,0 +1,226 @@
+id: 1 - number_of_essays: 6600
+
+id: 2 - number_of_essays: 5547
+
+id: 3 - number_of_essays: 3757
+
+id: 4 - number_of_essays: 13273
+
+id: 5 - number_of_essays: 932
+
+id: 6 - number_of_essays: 13537
+
+id: 7 - number_of_essays: 5615
+
+id: 8 - number_of_essays: 915
+
+id: 9 - number_of_essays: 13946
+
+id: 10 - number_of_essays: 15305
+
+id: 11 - number_of_essays: 15177
+
+id: 12 - number_of_essays: 656
+
+id: 13 - number_of_essays: 908
+
+id: 14 - number_of_essays: 15561
+
+id: 15 - number_of_essays: 13312
+
+id: 16 - number_of_essays: 13976
+
+id: 17 - number_of_essays: 8945
+
+id: 18 - number_of_essays: 5860
+
+id: 19 - number_of_essays: 9884
+
+id: 20 - number_of_essays: 8941
+
+id: 21 - number_of_essays: 142
+
+id: 22 - number_of_essays: 975
+
+id: 23 - number_of_essays: 9114
+
+id: 24 - number_of_essays: 15142
+
+id: 25 - number_of_essays: 15707
+
+id: 26 - number_of_essays: 918
+
+id: 27 - number_of_essays: 974
+
+id: 28 - number_of_essays: 157
+
+id: 29 - number_of_essays: 895
+
+id: 30 - number_of_essays: 14035
+
+id: 31 - number_of_essays: 15852
+
+id: 32 - number_of_essays: 8128
+
+id: 33 - number_of_essays: 786
+
+id: 34 - number_of_essays: 14128
+
+id: 35 - number_of_essays: 911
+
+id: 36 - number_of_essays: 974
+
+id: 37 - number_of_essays: 13412
+
+id: 38 - number_of_essays: 9011
+
+id: 39 - number_of_essays: 916
+
+id: 40 - number_of_essays: 950
+
+id: 41 - number_of_essays: 10741
+
+id: 42 - number_of_essays: 4412
+
+id: 43 - number_of_essays: 6572
+
+id: 44 - number_of_essays: 10680
+
+id: 45 - number_of_essays: 9932
+
+id: 46 - number_of_essays: 652
+
+id: 47 - number_of_essays: 786
+
+id: 48 - number_of_essays: 13509
+
+id: 49 - number_of_essays: 952
+
+id: 50 - number_of_essays: 2958
+
+id: 51 - number_of_essays: 13476
+
+id: 52 - number_of_essays: 1850
+
+id: 53 - number_of_essays: 978
+
+id: 54 - number_of_essays: 153
+
+id: 55 - number_of_essays: 876
+
+id: 56 - number_of_essays: 13211
+
+id: 57 - number_of_essays: 14178
+
+id: 58 - number_of_essays: 126
+
+id: 59 - number_of_essays: 956
+
+id: 60 - number_of_essays: 904
+
+id: 61 - number_of_essays: 11706
+
+id: 62 - number_of_essays: 926
+
+id: 63 - number_of_essays: 962
+
+id: 64 - number_of_essays: 12840
+
+id: 65 - number_of_essays: 13035
+
+id: 66 - number_of_essays: 632
+
+id: 67 - number_of_essays: 15475
+
+id: 68 - number_of_essays: 929
+
+id: 69 - number_of_essays: 12085
+
+id: 70 - number_of_essays: 924
+
+id: 71 - number_of_essays: 866
+
+id: 72 - number_of_essays: 13678
+
+id: 73 - number_of_essays: 929
+
+id: 74 - number_of_essays: 953
+
+id: 75 - number_of_essays: 3763
+
+id: 76 - number_of_essays: 5669
+
+id: 77 - number_of_essays: 5462
+
+id: 78 - number_of_essays: 6878
+
+id: 79 - number_of_essays: 946
+
+id: 80 - number_of_essays: 929
+
+id: 81 - number_of_essays: 13461
+
+id: 82 - number_of_essays: 15200
+
+id: 83 - number_of_essays: 934
+
+id: 84 - number_of_essays: 14493
+
+id: 85 - number_of_essays: 5147
+
+id: 86 - number_of_essays: 876
+
+id: 87 - number_of_essays: 6860
+
+id: 88 - number_of_essays: 13226
+
+id: 89 - number_of_essays: 905
+
+id: 90 - number_of_essays: 15082
+
+id: 91 - number_of_essays: 652
+
+id: 92 - number_of_essays: 13114
+
+id: 93 - number_of_essays: 13776
+
+id: 94 - number_of_essays: 299
+
+id: 95 - number_of_essays: 919
+
+id: 96 - number_of_essays: 990
+
+id: 97 - number_of_essays: 287
+
+id: 98 - number_of_essays: 985
+
+id: 99 - number_of_essays: 115
+
+id: 100 - number_of_essays: 932
+
+id: 101 - number_of_essays: 10172
+
+id: 102 - number_of_essays: 8514
+
+id: 103 - number_of_essays: 10198
+
+id: 104 - number_of_essays: 9567
+
+id: 105 - number_of_essays: 12362
+
+id: 106 - number_of_essays: 5414
+
+id: 107 - number_of_essays: 919
+
+id: 108 - number_of_essays: 13596
+
+id: 109 - number_of_essays: 11113
+
+id: 110 - number_of_essays: 114
+
+id: 111 - number_of_essays: 562
+
+id: 112 - number_of_essays: 13793
+
+id: 113 - number_of_essays: 396
+
